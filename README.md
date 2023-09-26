@@ -1,6 +1,6 @@
 # CodingClub
 This is my first git repository.
-<b>
+<br>
 Author - Prerna Pandey
 
 
